@@ -95,29 +95,19 @@ My goal is to become a stronger open-source contributor and work towards **Googl
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technologies & Tools
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,nodejs,nextjs,git,github&perline=8" alt="Python, TypeScript, JavaScript, FastAPI, Node.js, Next.js, Git and GitHub" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**AI & Machine Learning**
-
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-2563EB?style=flat-square)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-0F766E?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-444444?style=flat-square)
-
-**Backend & Development**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-444444?style=for-the-badge" />
+</p>
 
 **Currently Exploring**
 
