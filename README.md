@@ -135,6 +135,40 @@ Kubeflow · Agentic Workflows · LLM Evaluation · MLOps · AI Infrastructure
 
 ---
 
+## 📈 GitHub Intelligence Dashboard
+
+### Overview
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="./assets/overview.dark.svg" />
+  <img src="./assets/overview.light.svg"
+    width="100%" alt="GitHub overview" />
+</picture>
+
+### Contribution Insights
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="./assets/contributions.dark.svg" />
+  <img src="./assets/contributions.light.svg"
+    width="100%" alt="Contribution insights" />
+</picture>
+
+### Coding Languages
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="./assets/languages.dark.svg" />
+  <img src="./assets/languages.light.svg"
+    width="100%" alt="Language distribution" />
+</picture>
+
+### Repository Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="./assets/repositories.dark.svg" />
+  <img src="./assets/repositories.light.svg"
+    width="100%" alt="Repository activity" />
+</picture>
+
 
 ## 🐍 Contribution Activity
 
