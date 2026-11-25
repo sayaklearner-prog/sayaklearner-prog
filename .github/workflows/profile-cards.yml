@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "17 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -18,20 +15,21 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Generate profile cards
+      - name: Render unified profile dashboard
         uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: sayaklearner-prog
-          cards: overview,contributions,momentum,languages,repositories,rhythm
+          cards: overview,languages,contributions,momentum,rhythm,repositories
+          layout: combined
           output-dir: assets
           themes: light,dark
           palette: blue
           commit: true
-          commit-message: "chore(profile): update GitHub dashboard [skip ci]"
+          commit-message: "chore(profile): refresh unified analytics dashboard [skip ci]"
