@@ -1,0 +1,28 @@
+
+name: Generate GitHub Profile Cards
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile cards
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: sayaklearner-prog
+          cards: overview,contributions,momentum,languages,repositories,rhythm
+          output-dir: assets
+          themes: light,dark
+          commit: true
