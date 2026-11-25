@@ -8,10 +8,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: profile-dashboard
-  cancel-in-progress: false
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -21,15 +17,14 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
-      - name: Render unified profile dashboard
+      - name: Generate profile cards
         uses: seijikohara/profile-cards-action@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: sayaklearner-prog
-          cards: overview,languages,contributions,momentum,rhythm,repositories
-          layout: combined
+          cards: overview,contributions,momentum,languages,repositories,rhythm
           output-dir: assets
           themes: light,dark
           palette: blue
           commit: true
-          commit-message: "chore(profile): refresh unified analytics dashboard [skip ci]"
+          commit-message: "chore(profile): update GitHub dashboard [skip ci]"
