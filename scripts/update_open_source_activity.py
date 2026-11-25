@@ -63,7 +63,7 @@ def describe_event(event: dict) -> dict | None:
     if event_type == "PushEvent":
         ref = payload.get("ref", "")
         branch = ref.removeprefix("refs/heads/").removeprefix("refs/tags/")
-        branch_label = f" to <code>{html.escape(branch)}</code>" if branch else ""
+        branch_label = f" to {branch}" if branch else ""
         count = payload.get("size") or len(payload.get("commits") or [])
         commit_word = "commit" if count == 1 else "commits"
         label = f"Pushed {count} {commit_word}{branch_label}"
