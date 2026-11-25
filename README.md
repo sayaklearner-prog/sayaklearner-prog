@@ -166,6 +166,16 @@ Kubeflow · Agentic Workflows · LLM Evaluation · MLOps · AI Infrastructure
 
 ---
 
+## 🌐 Open Source Activity Timeline
+
+Recent public pull requests, commits, reviews, issues, and releases — refreshed automatically every day.
+
+<!--START_SECTION:open-source-activity-->
+<p align="center"><sub>The timeline will populate after the first GitHub Actions run.</sub></p>
+<!--END_SECTION:open-source-activity-->
+
+---
+
 ## 🎯 What I'm Working Towards
 
 - Building production-ready AI applications.
