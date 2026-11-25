@@ -115,17 +115,6 @@ Kubeflow · Agentic Workflows · LLM Evaluation · MLOps · AI Infrastructure
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sayaklearner-prog&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayaklearner-prog&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sayaklearner-prog&theme=tokyonight&hide_border=true" width="70%" />
-</p>
-
 ---
 
 ## 📈 GitHub Intelligence Dashboard
