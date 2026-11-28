@@ -5,11 +5,11 @@
 <text x="32" y="52" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="750">OPEN SOURCE ACTIVITY</text>
 <text x="32" y="83" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="400">Your public engineering activity at a glance · Recent GitHub events</text>
 <text x="1400" y="52" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="650">UPDATED</text>
-<text x="1400" y="78" text-anchor="end" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">27 Nov 2026 · 02:23 PM IST</text>
+<text x="1400" y="78" text-anchor="end" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">28 Nov 2026 · 01:44 PM IST</text>
 <rect x="24" y="112" width="208" height="142" rx="16" fill="#151d29" stroke="#263142"/>
 <rect x="24" y="112" width="4" height="142" rx="2" fill="#63a8ff"/>
 <text x="44" y="148" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="650">PUBLIC EVENTS</text>
-<text x="44" y="202" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="38" font-weight="750">293</text>
+<text x="44" y="202" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="38" font-weight="750">277</text>
 <text x="44" y="229" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400">Recent public GitHub events</text>
 <rect x="246" y="112" width="208" height="142" rx="16" fill="#151d29" stroke="#263142"/>
 <rect x="246" y="112" width="4" height="142" rx="2" fill="#9885ff"/>
@@ -19,7 +19,7 @@
 <rect x="468" y="112" width="208" height="142" rx="16" fill="#151d29" stroke="#263142"/>
 <rect x="468" y="112" width="4" height="142" rx="2" fill="#2ac49a"/>
 <text x="488" y="148" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="650">CODE PUSHES</text>
-<text x="488" y="202" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="38" font-weight="750">79</text>
+<text x="488" y="202" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="38" font-weight="750">73</text>
 <text x="488" y="229" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400">Visible push events</text>
 <rect x="690" y="112" width="208" height="142" rx="16" fill="#151d29" stroke="#263142"/>
 <rect x="690" y="112" width="4" height="142" rx="2" fill="#ee9867"/>
@@ -46,47 +46,47 @@
 <rect x="38" y="372" width="852" height="58" rx="10" fill="#151d29"/>
 <circle cx="67" cy="401" r="16" fill="#2ac49a" fill-opacity="0.16"/>
 <text x="67" y="406" text-anchor="middle" fill="#2ac49a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">↗</text>
-<text x="96" y="398" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Pushed code updates to feature/android-back-navigation</text>
-<text x="96" y="418" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400">sayaklearner-prog/lumen-wellness-app</text>
-<text x="880" y="407" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">26 Nov 2026 · 07:39 PM IST</text>
+<text x="96" y="398" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Pushed code updates to fix/acp-standardize-token-usage</text>
+<text x="96" y="418" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400">sayaklearner-prog/gemini-cli</text>
+<text x="880" y="407" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">26 Nov 2026 · 01:19 PM IST</text>
 <circle cx="67" cy="466" r="16" fill="#2ac49a" fill-opacity="0.16"/>
 <text x="67" y="471" text-anchor="middle" fill="#2ac49a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">↗</text>
-<text x="96" y="463" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Pushed code updates to main</text>
+<text x="96" y="463" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Pushed code updates to feature/android-back-navigation</text>
 <text x="96" y="483" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400">sayaklearner-prog/lumen-wellness-app</text>
-<text x="880" y="472" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">26 Nov 2026 · 07:40 PM IST</text>
+<text x="880" y="472" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">26 Nov 2026 · 02:36 AM IST</text>
 <rect x="38" y="502" width="852" height="58" rx="10" fill="#151d29"/>
-<circle cx="67" cy="531" r="16" fill="#9885ff" fill-opacity="0.16"/>
-<text x="67" y="536" text-anchor="middle" fill="#9885ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">↗</text>
-<text x="96" y="528" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Opened pull request #29</text>
+<circle cx="67" cy="531" r="16" fill="#2ac49a" fill-opacity="0.16"/>
+<text x="67" y="536" text-anchor="middle" fill="#2ac49a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">↗</text>
+<text x="96" y="528" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Pushed code updates to feature/android-back-navigation</text>
 <text x="96" y="548" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400">sayaklearner-prog/lumen-wellness-app</text>
-<text x="880" y="537" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">26 Nov 2026 · 07:40 PM IST</text>
+<text x="880" y="537" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">26 Nov 2026 · 07:39 PM IST</text>
 <circle cx="67" cy="596" r="16" fill="#2ac49a" fill-opacity="0.16"/>
 <text x="67" y="601" text-anchor="middle" fill="#2ac49a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">↗</text>
-<text x="96" y="593" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Pushed code updates to fix/acp-hook-denial-reason</text>
-<text x="96" y="613" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400">sayaklearner-prog/gemini-cli</text>
-<text x="880" y="602" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">26 Nov 2026 · 01:20 PM IST</text>
+<text x="96" y="593" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Pushed code updates to main</text>
+<text x="96" y="613" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400">sayaklearner-prog/lumen-wellness-app</text>
+<text x="880" y="602" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">26 Nov 2026 · 07:40 PM IST</text>
 <rect x="38" y="632" width="852" height="58" rx="10" fill="#151d29"/>
-<circle cx="67" cy="661" r="16" fill="#2ac49a" fill-opacity="0.16"/>
-<text x="67" y="666" text-anchor="middle" fill="#2ac49a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">↗</text>
-<text x="96" y="658" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Pushed code updates to feat/issue-6136-copy-remote-files-same-hostname</text>
-<text x="96" y="678" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400">sayaklearner-prog/aiida-core</text>
-<text x="880" y="667" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">24 Nov 2026 · 07:01 PM IST</text>
+<circle cx="67" cy="661" r="16" fill="#9885ff" fill-opacity="0.16"/>
+<text x="67" y="666" text-anchor="middle" fill="#9885ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">↗</text>
+<text x="96" y="658" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Opened pull request #29</text>
+<text x="96" y="678" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400">sayaklearner-prog/lumen-wellness-app</text>
+<text x="880" y="667" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">26 Nov 2026 · 07:40 PM IST</text>
 <circle cx="67" cy="726" r="16" fill="#2ac49a" fill-opacity="0.16"/>
 <text x="67" y="731" text-anchor="middle" fill="#2ac49a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">↗</text>
-<text x="96" y="723" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Pushed code updates to main</text>
-<text x="96" y="743" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400">sayaklearner-prog/lumen-wellness-app</text>
-<text x="880" y="732" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">26 Nov 2026 · 02:37 AM IST</text>
+<text x="96" y="723" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Pushed code updates to fix/acp-hook-denial-reason</text>
+<text x="96" y="743" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400">sayaklearner-prog/gemini-cli</text>
+<text x="880" y="732" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">26 Nov 2026 · 01:20 PM IST</text>
 <rect x="38" y="762" width="852" height="58" rx="10" fill="#151d29"/>
-<circle cx="67" cy="791" r="16" fill="#9885ff" fill-opacity="0.16"/>
-<text x="67" y="796" text-anchor="middle" fill="#9885ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">↗</text>
-<text x="96" y="788" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Opened pull request #28</text>
-<text x="96" y="808" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400">sayaklearner-prog/lumen-wellness-app</text>
-<text x="880" y="797" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">26 Nov 2026 · 02:37 AM IST</text>
+<circle cx="67" cy="791" r="16" fill="#2ac49a" fill-opacity="0.16"/>
+<text x="67" y="796" text-anchor="middle" fill="#2ac49a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">↗</text>
+<text x="96" y="788" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Pushed code updates to feat/issue-6136-copy-remote-files-same-hostname</text>
+<text x="96" y="808" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400">sayaklearner-prog/aiida-core</text>
+<text x="880" y="797" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">24 Nov 2026 · 07:01 PM IST</text>
 <circle cx="67" cy="856" r="16" fill="#2ac49a" fill-opacity="0.16"/>
 <text x="67" y="861" text-anchor="middle" fill="#2ac49a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">↗</text>
-<text x="96" y="853" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Pushed code updates to feature/android-back-navigation</text>
+<text x="96" y="853" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="650">Pushed code updates to main</text>
 <text x="96" y="873" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="400">sayaklearner-prog/lumen-wellness-app</text>
-<text x="880" y="862" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">25 Nov 2026 · 12:07 AM IST</text>
+<text x="880" y="862" text-anchor="end" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">26 Nov 2026 · 02:37 AM IST</text>
 <rect x="924" y="446" width="492" height="500" rx="18" fill="#111722" stroke="#263142"/>
 <text x="946" y="488" fill="#f1f5f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="700">ACTIVITY TIMELINE</text>
 <text x="946" y="512" fill="#9aa8b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="400">Public events by week · last six weeks</text>
@@ -113,18 +113,18 @@
 <circle cx="1211.2" cy="731.4" r="4.5" fill="#9885ff" stroke="#111722" stroke-width="2"/>
 <circle cx="1287.6" cy="678.2" r="4.5" fill="#9885ff" stroke="#111722" stroke-width="2"/>
 <circle cx="1364.0" cy="617.5" r="4.5" fill="#9885ff" stroke="#111722" stroke-width="2"/>
-<polyline points="982.0,830.0 1058.4,830.0 1134.8,769.3 1211.2,731.4 1287.6,579.6 1364.0,640.3" fill="none" stroke="#2ac49a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="982.0,830.0 1058.4,830.0 1134.8,830.0 1211.2,731.4 1287.6,579.6 1364.0,625.1" fill="none" stroke="#2ac49a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="982.0" cy="830.0" r="4.5" fill="#2ac49a" stroke="#111722" stroke-width="2"/>
 <circle cx="1058.4" cy="830.0" r="4.5" fill="#2ac49a" stroke="#111722" stroke-width="2"/>
-<circle cx="1134.8" cy="769.3" r="4.5" fill="#2ac49a" stroke="#111722" stroke-width="2"/>
+<circle cx="1134.8" cy="830.0" r="4.5" fill="#2ac49a" stroke="#111722" stroke-width="2"/>
 <circle cx="1211.2" cy="731.4" r="4.5" fill="#2ac49a" stroke="#111722" stroke-width="2"/>
 <circle cx="1287.6" cy="579.6" r="4.5" fill="#2ac49a" stroke="#111722" stroke-width="2"/>
-<circle cx="1364.0" cy="640.3" r="4.5" fill="#2ac49a" stroke="#111722" stroke-width="2"/>
-<polyline points="982.0,830.0 1058.4,830.0 1134.8,799.6 1211.2,663.1 1287.6,609.9 1364.0,617.5" fill="none" stroke="#e7bd69" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1364.0" cy="625.1" r="4.5" fill="#2ac49a" stroke="#111722" stroke-width="2"/>
+<polyline points="982.0,830.0 1058.4,830.0 1134.8,830.0 1211.2,708.6 1287.6,609.9 1364.0,617.5" fill="none" stroke="#e7bd69" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 <circle cx="982.0" cy="830.0" r="4.5" fill="#e7bd69" stroke="#111722" stroke-width="2"/>
 <circle cx="1058.4" cy="830.0" r="4.5" fill="#e7bd69" stroke="#111722" stroke-width="2"/>
-<circle cx="1134.8" cy="799.6" r="4.5" fill="#e7bd69" stroke="#111722" stroke-width="2"/>
-<circle cx="1211.2" cy="663.1" r="4.5" fill="#e7bd69" stroke="#111722" stroke-width="2"/>
+<circle cx="1134.8" cy="830.0" r="4.5" fill="#e7bd69" stroke="#111722" stroke-width="2"/>
+<circle cx="1211.2" cy="708.6" r="4.5" fill="#e7bd69" stroke="#111722" stroke-width="2"/>
 <circle cx="1287.6" cy="609.9" r="4.5" fill="#e7bd69" stroke="#111722" stroke-width="2"/>
 <circle cx="1364.0" cy="617.5" r="4.5" fill="#e7bd69" stroke="#111722" stroke-width="2"/>
 <circle cx="950" cy="890" r="5" fill="#9885ff"/>
